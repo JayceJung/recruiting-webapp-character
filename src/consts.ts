@@ -6,8 +6,8 @@ export const ATTRIBUTE_LIST = [
     'Constitution',
     'Intelligence',
     'Wisdom',
-    'Charisma',
-];
+    'Charisma'
+]
 
 export const CLASS_LIST: Record<Class, Attributes> = {
     'Barbarian': {
